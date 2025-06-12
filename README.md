@@ -17,18 +17,18 @@ if users want to use the model in users' local computer and follow the "Local"
 
 ## Local Usage
 1. Frist Step - clone the repository
-'''bash
+```bash
 git clone https://github.com/Jaehyeon-O-Ob/NanoToxRadar.git
 cd NanoToxRadar
-'''
+```
 2. Second Step - Create a virtual environment (Recommended with Miniconda)
-'''bash
+```bash
 conda create -n nanotoxradar python=3.10
-'''
+```
 3. Third Step - Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 4. Fourth Step - open 'prediction.py'
 fill in the '# nano particle ready'
 # nano particle ready
