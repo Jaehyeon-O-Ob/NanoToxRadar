@@ -29,8 +29,22 @@ conda create -n nanotoxradar python=3.10
 '''bash
 pip install -r requirements.txt
 '''
-4. Fourth Step - nano
+4. Fourth Step - open 'prediction.py'
+fill in the '# nano particle ready'
+# nano particle ready
+nanoparticle = {'Core':'CdSe',
+               'Shell':'',
+               'Doping': '',
+               'Doping Rate(%)': '',
+               'Coating': '',
+               'Diameter(nm)': 500}
+at this point, there are rules to enter each components.
+- Core is needed.
+- Shell is only filled with the list in "shell_volume_list.csv".
+- If users input doping component, 'Doping Rage(%)' is mandatory within 1~100.
+- The range of 'Diameter(nm)' covers from 1nm to 700nm. If nanomaterial diameter value is out of the range, the cytotoxicity prediction accuracy can be reduced as the model operates outside its trained domain.
 
+5. Final Step - Users get the 
 
 ## References
 [1] Shin et al., Use of Size-Dependent Electron Configuration Fingerprint to Develop General Prediction Models for Nanomaterials. NanoImpact 2021, 21, 100298.
