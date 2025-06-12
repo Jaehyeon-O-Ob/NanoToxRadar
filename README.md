@@ -18,7 +18,19 @@ if users want to use the model in users' local computer and follow the "Local"
 ## Local Usage
 1. Frist Step - clone the repository
 '''bash
-git clone https://github
+git clone https://github.com/Jaehyeon-O-Ob/NanoToxRadar.git
+cd NanoToxRadar
+'''
+2. Second Step - Create a virtual environment (Recommended with Miniconda)
+'''bash
+conda create -n nanotoxradar python=3.10
+'''
+3. Third Step - Install dependencies
+'''bash
+pip install -r requirements.txt
+'''
+4. Fourth Step - nano
+
 
 ## References
 [1] Shin et al., Use of Size-Dependent Electron Configuration Fingerprint to Develop General Prediction Models for Nanomaterials. NanoImpact 2021, 21, 100298.
