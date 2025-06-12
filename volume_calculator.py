@@ -3,6 +3,8 @@ Volume Calculator
 
 To calculate the volume of each components in nano particle
 Core / Shell / Coating / Doping
+
+Created by Jaehyeon Park
 """
 import warnings
 warnings.filterwarnings('ignore')
