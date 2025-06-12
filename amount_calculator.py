@@ -1,3 +1,9 @@
+"""
+Created by Jaehyeon Park
+
+There are codes to calculate the amount of electrons for each components
+"""
+
 import pandas as pd
 from collections import defaultdict
 import re
