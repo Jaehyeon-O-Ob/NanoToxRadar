@@ -2,6 +2,8 @@
 To represent the structure of nanomaterials
 SDEC FP has been employed and supplemented calculation of multi-components in this code.
 
+This code is to generate the SDEC FP for a nanomaterial with function get_component_amounts.
+
 Created by Jaehyeon Park, source from Ph.D Shin
 """
 
