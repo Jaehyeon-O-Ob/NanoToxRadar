@@ -1,3 +1,10 @@
+"""
+To represent the structure of nanomaterials
+SDEC FP has been employed and supplemented calculation of multi-components in this code.
+
+Created by Jaehyeon Park, source from Ph.D Shin
+"""
+
 import pandas as pd
 import numpy as np
 from collections import defaultdict
