@@ -11,6 +11,8 @@ single, mulitple, normal will check each components
 get_valid_combination - valid combination means that if stability of component is perfect there are valid combination by electron of atoms in the component,
 for example, Fe3O4 has combination of (Fe+2, Fe+3, Fe+3, O-2, O-2, O-2, O-2) and (Fe+2, Fe+4, Fe+2, O-2, O-2, O-2, O-2)
 but the former is more stable, so we need to check the valid combination by result of stability.
+
+Created by Jaehyeon Park
 """
 import numpy as np
 import pandas as pd
