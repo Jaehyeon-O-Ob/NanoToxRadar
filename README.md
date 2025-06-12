@@ -31,12 +31,15 @@ pip install -r requirements.txt
 ```
 4. Fourth Step - open 'prediction.py'
 fill in the '# nano particle ready'
+```python
+# nano particle ready
 nanoparticle = {'Core':'CdSe',
                'Shell':'',
                'Doping': '',
                'Doping Rate(%)': '',
                'Coating': '',
                'Diameter(nm)': 500}
+```
 at this point, there are rules to enter each components.
 - Core is needed.
 - Shell is only filled with the list in "shell_volume_list.csv".
