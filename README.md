@@ -43,6 +43,7 @@ at this point, there are rules to enter each components.
 - Shell is only filled with the list in "shell_volume_list.csv".
 - If users input doping component, 'Doping Rage(%)' is mandatory within 1~100.
 - The range of 'Diameter(nm)' covers from 1nm to 700nm. If nanomaterial diameter value is out of the range, the cytotoxicity prediction accuracy can be reduced as the model operates outside its trained domain.
+
 5. Final Step - Users get "result_from_model.csv" file.
 
 ## References
