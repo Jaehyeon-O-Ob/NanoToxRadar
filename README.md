@@ -31,7 +31,6 @@ pip install -r requirements.txt
 ```
 4. Fourth Step - open 'prediction.py'
 fill in the '# nano particle ready'
-# nano particle ready
 nanoparticle = {'Core':'CdSe',
                'Shell':'',
                'Doping': '',
