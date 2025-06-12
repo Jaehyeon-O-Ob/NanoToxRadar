@@ -1,0 +1,153 @@
+Coating name,Full name,mf,name,Coating Volume (nm^3)
+3MA, 3-Methyladenine,C6H7N5,3-methyladenine,0.019773549
+AEAPS, Aminoethylaminopropyltrimethoxysilane,C8H22N2O3Si,aminoethylaminopropyltrimethoxysilane,0.02797122
+AMP, Adenosine-monophosphate,C10H14N5O7P,adenosine-monophosphate,0.038905882
+APP, Aminopropanol,C3H9NO,aminopropanol,0.009344829
+APTES, Aminopropyltriethoxysilane,C9H23NO3Si,aminopropyltriethoxysilane,0.028553036
+APTMS, Aminopropyltrimethoxysilane,C6H17NO3Si,aminopropyltrimethoxysilane,0.021992524
+Arg, Arginine,C6H14N4O2,arginine,0.021076151
+AUT, Undecanethiol,C11H24S,undecanethiol,0.029318645
+CD,Cyclodextrin,C36H60O30,cyclodextrin,0.104222412
+B-CD, Beta-Cyclodextrin,C42H70O35,beta-cyclodextrin,0.121592814
+Cbac, Carborane,C2H2B10,carborane,0.029823566
+CD-gal, O-beta-Galactopyranoside-Cyclodextrin,C36H60O30/C6H12O6,o-beta-galactopyranoside-cyclodextrin,0.122772109
+CD-man, O-alpha-Mannopyranoside-Cyclodextrin,C36H60O30/C6H12O6,o-alpha-mannopyranoside-cyclodextrin,0.122772109
+cGSH, Crosslinked glutathione,C10H17N3O6S,crosslinked glutathione,0.036277478
+Chol, Cholesterol,C27H46O,cholesterol,0.058851325
+CLI, CLI-095 (TLR-Inhibitor),C15H17ClFNO4S,cli-095 (tlr-inhibitor),0.046782003
+CTAB, Cetyltrimethylammonium bromide,C19H42BrN,cetyltrimethylammonium bromide,0.049772586
+CYST, Cysteamine,C2H7NS,cysteamine,0.011242129
+DHLA, Dihydrolipoic acid,C8H16O2S2,dihydrolipoic acid,0.02928209
+DHLA-Amine, Amine-modified dihydrolipoic acid,C8H15O2S2NH2,amine-modified dihydrolipoic acid,0.030887111
+DMED, Dimethylethylenediamine,C4H12N2,dimethylethylenediamine,0.012231909
+DSPE," 1,2-Distearoyl-sn-glycero-3-phosphoethanolamine",C41H82NO8P,"1,2-distearoyl-sn-glycero-3-phosphoethanolamine",0.102555121
+DSPE, Distearoyl-Phophatidylethanolamine,C41H82NO8P,distearoyl-phophatidylethanolamine,0.102555121
+EMG20,  Commercial benzoate ester ,C9H10O2,commercial benzoate ester ,0.020393029
+F127COOH, carboxylated Pluronic F127 triblock polymer,C7H14O6,carboxylated pluronic f127 triblock polymer,0.020736535
+FA, Folic acid,C19H19N7O6,folic acid,0.054645019
+FITC, Fluorescein isothiocyanate,C21H11NO5S,fluorescein isothiocyanate,0.052649154
+Gal, Galatose,C6H12O6,galatose,0.018549697
+GAM, Gambogic acid,C38H44O8,gambogic acid,0.08594579
+GC-g-PCL , Glycidol-Chitosan-grafted-Polycaprolactone,C15H26O4N,glycidol-chitosan-grafted-polycaprolactone,0.037340407
+GCV, Ganciclovir,C9H13N5O4,ganciclovir,0.029953176
+Glc-Ac, Glucopyranose-Acetyl,C8H14O7,glucopyranose-acetyl,0.023553634
+GSH, Glutathione,C10H17N3O6S,glutathione,0.036277478
+HA, HyaluronicAcid,C12H21NO11,hyaluronicacid,0.037250604
+His, Histidine,C6H9N3O2,histidine,0.018922097
+HPC, Hydroxypropylcellulose,C8H28O8,hydroxypropylcellulose,0.026380029
+HPG28, Hyperbranched polyglycerol-grafted weight ratio 28.3,C3H5O2,hyperbranched polyglycerol-grafted weight ratio 28.3,0.008232812
+HPG62, Hyperbranched polyglycerol-grafted weight ratio 61.7,C3H5O2,hyperbranched polyglycerol-grafted weight ratio 61.7,0.008232812
+HPG7, Hyperbranched polyglycerol-grafted weight ratio 6.7,C3H5O2,hyperbranched polyglycerol-grafted weight ratio 6.7,0.008232812
+HR9, histidine-rich nona-arginine,C12H23N7O4,histidine-rich nona-arginine,0.039998248
+LA, Lipoic acid,C8H14O2S2,lipoic acid,0.029007573
+LF, Lipofectamine,C54H107N6O5,lipofectamine,0.131282439
+LPS, Lipopolysaccharide,C205H366N3O117P5,lipopolysaccharide,0.573468672
+MAA, Mercaptoacetic acid,C2H4O2S,mercaptoacetic acid,0.011172149
+Man, Mannose,C6H12O6,mannose,0.018549697
+MB, Methyleneblue,C16H18ClN3SCl,methyleneblue,0.05083757
+MEA, Mercaptoethylamine,C2H7NS,mercaptoethylamine,0.011242129
+MIA, Mercaptoisobutyric acid,C4H8O2S,mercaptoisobutyric acid,0.015545824
+MPA, Mercaptopropionic acid,C3H6O2S,mercaptopropionic acid,0.013358986
+M-POSS, Mercaptopropylisobutyl-Polyhedral oligomeric silsesquioxane,C31H70O12SSi8,mercaptopropylisobutyl-polyhedral oligomeric silsesquioxane,0.116761153
+MPS, Mercaptopropyltrimethoxysilane,C6H16O3SSi,mercaptopropyltrimethoxysilane,0.025376418
+MSA, Mercaptosuccinic acid,C4H6O4S,mercaptosuccinic acid,0.017080864
+MUA, Mercaptoundecanoic acid,C11H22O2S,mercaptoundecanoic acid,0.030853686
+NAC, N-acetylcysteine,C5H9NO3S,n-acetylcysteine,0.019967945
+OCTMO, Octyltrimethoxysilane,C11H26O3Si,octyltrimethoxysilane,0.03132169
+ODA, Octylamine,C8H19N,octylamine,0.019374238
+OPA, Octylamine-poly(acrylic acid),C11H22O2N,octylamine-poly(acrylic acid),0.027332533
+PAA, Poly(acrylic acid),C3H4O2,poly(acrylic acid),0.008095553
+PAH, Polycyclic aromatic hydrocarbon,C6,polycyclic aromatic hydrocarbon,0.011473926
+PAL, Polyallylamine,C3H7N,polyallylamine,0.008165534
+PAMAM, Polyamidoamine,C27H56N2O,polyamidoamine,0.063159434
+PBELA," Poly(benzaldehyde-poly(ethylene glycol))-poly(D,L-lactide)",C15H20O7,"poly(benzaldehyde-poly(ethylene glycol))-poly(d,l-lactide)",0.037763431
+PC, Phosphotidylcholine,C40H80NO8P,phosphotidylcholine,0.100368283
+PCDA, Pentacosydonic acid,C25H42O2,pentacosydonic acid,0.055382429
+PDDA, Poly(diallyldimethylammonium chloride),C8H16NCl,poly(diallyldimethylammonium chloride),0.023151253
+PDMA, Poly(dimethylaminoethyl-methacrylate),C8H15NO2,poly(dimethylaminoethyl-methacrylate),0.020634762
+PEG, Poly(ethylene glycol),C2H5O2,poly(ethylene glycol),0.006320491
+PEG#, poly(ethylene glycol) with Molecular Weight #,C2H5O2,poly(ethylene glycol) with molecular weight #,0.006320491
+PEG-Amine, Amine-terminated poly(ethylene glycol),C2H7ON,amine-terminated poly(ethylene glycol),0.007157992
+PEG-COOH, COOH-terminated poly(ethylene glycol),C3H5O3,cooh-terminated poly(ethylene glycol),0.00913759
+PEI, Polyethylenimine,C2H5N,polyethylenimine,0.005978696
+PELA, Poly(ethylene glycol)-poly(DL-lactide),C8H14O6,poly(ethylene glycol)-poly(dl-lactide),0.022648856
+PEO, Poly(ethylene oxide),C2H4O,poly(ethylene oxide),0.005278454
+Peptide-T7, Cys-HAIYPRH,C41H60N14O9,cys-haiyprh,0.115332347
+PGA, Poly-D-glutamic acid,C5H9NO4,poly-d-glutamic acid,0.015883807
+PGMA, Poly(glycidyl methacrylate),C7H10O3,poly(glycidyl methacrylate),0.017473166
+Phe, Phenylalanine,C9H11NO2,phenylalanine,0.02199805
+PI, Poly-Isoprene,C5H8,poly-isoprene,0.010659671
+PLA, Polylactide,C3H4O2,polylactide,0.008095553
+PLGA, Poly-lactideglycolide,C5H6O4,poly-lactideglycolide,0.014004269
+PLL, Poly-L-Lysine,C6H14N2O2,poly-l-lysine,0.018140625
+PMA, Poly-methacrylic acid,C4H6O2,poly-methacrylic acid,0.010282391
+PMAA, Polymaleticacidaliphaticalcohol,C4H6O2,polymaleticacidaliphaticalcohol,0.010282391
+PMAH, Imidazole-Polymer,C3H4N2,imidazole-polymer,0.009221522
+PMAL, Poly(maleic anhydride-alt-1-decene),C19H36O3N2,poly(maleic anhydride-alt-1-decene),0.046925258
+PMAO, Poly(maleic anhydride-alt-1-octadecene),C22H38O3,poly(maleic anhydride-alt-1-octadecene),0.050001212
+PMAS, Poly(maleicanhydride),C4H2O3?,poly(maleicanhydride),0.010638136
+PMAT, Poly(maleic anhydride-alt-1-tetradecene),C23H44O3N2,poly(maleic anhydride-alt-1-tetradecene),0.055672608
+PMB, PolymyxinB,C56H98N16O13,polymyxinb,0.155787617
+PNIPAM, Poly-N-Isopropylacrylamide,C6H11NO,poly-n-isopropylacrylamide,0.015356309
+POMA, Poly(o-methoxyaniline),C7H9NO,poly(o-methoxyaniline),0.016994113
+POSS, Polyhedral oligomeric silsesquioxane,C8H24O12Si8,polyhedral oligomeric silsesquioxane,0.061474974
+PPA, Poly(phosphoramidate-dipropylamine),C6H17N2O3P,poly(phosphoramidate-dipropylamine),0.023645969
+PPO, Poly(p-phenylene oxide),C8H8O,poly(p-phenylene oxide),0.017301413
+PR9, Pas nona-arginine,C54H110N36O10,pas nona-arginine,0.180251
+PS, Polystyrene,C8H8,polystyrene,0.016396634
+PSS, Poly(styrene sulfonate),C8H7SO3,poly(styrene sulfonate),0.023962628
+PVA, Polyvinyl-Alcohol,C2H4O,polyvinyl-alcohol,0.005278454
+R9, Nona-arginine,C54H110N36O10,nona-arginine,0.180251
+RGD, Arginylglycylaspartic acid ,C12H22N6O6,arginylglycylaspartic acid ,0.040202784
+RGDS, Arginylglycylasparticserine acid ,C12H22N6O6,arginylglycylasparticserine acid ,0.040202784
+SDS, Sodium dodecyl sulfate ,C12H25NaO4S,sodium dodecyl sulfate ,0.064174289
+STZAc4, Glucopyranose from Streptozotocin,C6H12O6,glucopyranose from streptozotocin,0.018549697
+TEG, Tetra(ethylene glycol),C8H18O5,tetra(ethylene glycol),0.02229311
+TEOS, Tetra(ethylsilicate),SiC8H20O4,tetra(ethylsilicate),0.025665956
+TMOS, Tetramethoxysilane,C4H12O4Si,tetramethoxysilane,0.016918606
+TOP, Trioctylphosphine,C24H51P,trioctylphosphine,0.057084665
+TOPO, Trioctylphosphine oxide,C24H51OP,trioctylphosphine oxide,0.057989444
+TPGS, Tocopheryl-poly(ethylene glycol)-succinate,C35H58O6,tocopheryl-poly(ethylene glycol)-succinate,0.080320886
+Trp, Tryptophan,C11H12N2O2,tryptophan,0.027427713
+TSA, Trichostatin A,C17H22N2O3,trichostatin a,0.041179001
+VB, Verbascoside,C29H36O15,verbascoside,0.073970286
+TGA,Thioglycolic Acid,C2H4O2S,thioglycolic acid,0.011172149
+Hexadecylamine,Hexadecylamine,C16H35N,hexadecylamine,0.036868938
+Lipid,Lipid,CH3(CH2)nCOOH,lipid,0.00837007
+CITR,citrate,C6H5O7-3,citrate,0.018493668
+Glutamate,Polyglutamate,C5H9NO4,polyglutamate,0.015883807
+GA,Galium,Ga,galium,0.015002475
+Thioglycerol,Thioglycerol,C3H8O2S,thioglycerol,0.013633503
+Cys,Cysteine,C3H7NO2S,cysteine,0.014964007
+Oleylamine,Oleylamine,C18H37N,oleylamine,0.040968097
+Polyacrylamide,Polyacrylamide,C3H5NO,polyacrylamide,0.008795796
+Oleic acid,Oleylacid,C18H34O2,oleic acid,0.040898116
+2-ME,Mercaptoethanol,C2H6OS,mercaptoethanol,0.010541886
+Methoxy,Methoxy,CH3O,methoxy,0.003228874
+TP,testosterone propionate,C22H32O3,testosterone propionate,0.049177662
+TG,Thioguanine,C5H5N5S,thioguanine,0.022575628
+Antioxidant,Antioxidant,C40H60N2O8,antioxidant,0.094902091
+Taxol,Paclitaxel,C47H51NO14,paclitaxel,0.111013922
+HYDROXYAPATITE,Hydroxyapatite,Ca5HO13P3,hydroxyapatite,0.171031588
+Gu,Guanidine,CH5N3,guanidine,0.007001902
+Graphene,Graphene,CH4,graphene,0.002461354
+Doxorubicin,Doxorubicin,C27H29NO11,doxorubicin,0.067033485
+Tf,Trifluoromethanesulfonyl,CF3SO2-,trifluoromethanesulfonyl,0.013208437
+PEG2,Polyethylene Glycol,C4H10O3,polyethylene glycol,0.011736203
+GlycyrrhizicAcid,GlycyrrhizicAcid,C42H62O16,glycyrrhizicacid,0.103303952
+EthyleneGlycol,EthyleneGlycol,C2H6O2,ethyleneglycol,0.006457749
+Gd,Gadolinium,Gd,gadolinium,0.024429024
+Silica,Silica,O2Si,silica,0.023256163
+SH(Sulfur Hydride),Sulfur hydride,HS,sulfur hydride,0.005126174
+Biotin,biotin,C10H16N2O3S,biotin,0.03195812
+Amine,Amine,C26H40N12S4,amine,0.092779498
+Pluronic-F68,Pluronic-F68,C5H14O4,pluronic F68,0.015102335
+Zn,,Zn,,0.010770858
+Pt,,Pt,,0.011249495
+Pd,,Pd,,0.010770858
+Au,,Au,,0.012507661
+Ag,,Ag,,0.012507661
+Cu,,Cu,,0.00878453
+ZnO,,ZnO,,0.013191439
+TiO2,,TiO2,,0.023915668
+NAC,,C5H9NO3S,,0.019967945

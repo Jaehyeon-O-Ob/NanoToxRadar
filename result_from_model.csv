@@ -1,0 +1,111 @@
+Cell-tissue,Cell-identification,Prediction
+adrenal-gland,PC12,3.636
+ascites,Ehrlich Ascites Carcinoma,3.348
+ascites,J774,3.104
+bacteria,Bacillus Subtilis,3.882
+bacteria,Klebsiella pneumoniae,2.966
+bacteria,Listeria monocytogenes,3.554
+bacteria,Proteus vulgaris,3.552
+bacteria,P. aeruginosa,3.311
+bacteria,S. paratyphi,3.729
+bacteria,S. aureus,3.346
+bacteria,E. Coli,3.595
+bacteria,Streptococcus pyogenes,3.093
+bacteria,V. cholerae (Tolerant phenotype),3.309
+bacteria,V. cholerae (Vulnerable phenotype),3.38
+bacteria,E. hirae,3.456
+bladder,ECV304,3.281
+bladder,MGH,2.768
+blood,Human-Monocytes,3.678
+blood,B-LCL,3.931
+blood,Mouse-Leukocytes,3.156
+blood,RAW264-7,3.356
+blood,Trout-Leukocytes,3.281
+blood,THP-1,3.07
+blood,Jurkat,3.316
+blood,PBMC,3.34
+blood,Ramos.2G6.4C10,3.402
+blood,Daudi,3.762
+blood,K562,3.316
+blood,Human-Normal-Lymphocyte,3.291
+bone,MG-63,3.682
+bone,Osteoblast,3.346
+bone-marrow,SH-SY5Y,3.257
+bone-marrow,hMSCs,3.616
+brain,IMR,3.509
+brain,NG108-15,3.588
+brain,A172,3.939
+brain,C17-2-Neural progenitor,3.451
+brain,U87,3.777
+brain,U251,3.81
+brain,C6 glioma,3.763
+breast,MDA-MB-231,3.487
+breast,T-47D,3.315
+breast,MCF-7,3.36
+breast,SK-BR-3,3.197
+bronchial-tracheal,NHBE,4.022
+cell-hybrid,EAhy926,3.29
+cervix,HeLa,3.878
+cervix,KB,2.936
+colon,HCT 116,3.696
+colon,HCT-8 (HRT 18),3.355
+colon,CCD-18Co,3.469
+colon,HT 29,3.274
+colon,Caco-2,3.32
+connectivetissue,L929,3.351
+connectivetissue,HT 1080,3.336
+embryo,NIH/3T3,3.027
+embryo,BALB/3T3,3.338
+embryo,3T3,3.015
+embryonic-kidney,HEK293,2.887
+eye,bovine-corneal-fibroblasts,3.216
+eye,ARPE-19,3.063
+immune-system,Mussel-Hemocytes,3.36
+kidney,Vero,3.145
+kidney,MDCK2,1.956
+kidney,COS,3.85
+kidney,LLC-PK1 ,3.834
+liver,Zebrafish-LiverCell,3.324
+liver,Primary-human-hepatocyte,3.321
+liver,huh 7 cells,3.287
+liver,HepG2,3.491
+liver,HL-7702,3.158
+liver,Trout-Hepatocytes,3.029
+liver,LO2,3.029
+liver,Bel 7402,3.329
+liver,HCC,3.322
+liver,SMMC-7721,3.528
+liver,Hepatocyte,2.931
+lung,BEAS-2B,3.423
+lung,MRC-5,3.318
+lung,SK-LC-6,3.348
+lung,CHL,3.594
+lung,HELF,3.333
+lung,SPCA1,2.908
+lung,H460,3.044
+lung,A549,3.233
+lymph-node,Cancer-Stem-Cell/FEMX-1,4.067
+muscle,Myoblast,3.596
+nasopharynx,HK-1,3.114
+ovary,CHO-K1,3.351
+pancreas,Panc-28,3.672
+pancreas,MIA PaCa 2,3.158
+pancreas,BXPC-3,2.874
+pancreas,PANC-1,3.09
+pancreas,AsPC-1,3.205
+periodontalligament,PDL-hTERT,3.337
+prostate,PC3,3.364
+prostate,HPrEC,3.087
+prostate,DU-145,3.348
+protozoa,T-Thermophila-BF5,3.332
+skin,B16,3.146
+skin,A375,3.518
+skin,JB6,3.444
+skin,HT 144,3.495
+skin,HaCaT,2.942
+spleen,WIL2-NS,3.63
+stomach,KATO III,3.246
+stomach,AGS,3.31
+stomach,SGC-7901,2.794
+stomach,MKN45,3.346
+umbilical-vein,HUVEC,3.348
