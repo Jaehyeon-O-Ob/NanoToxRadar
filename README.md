@@ -13,6 +13,17 @@ or if users want to know more information about it, please check the paper "Nano
 ![Alt text for the image](images/image_1.png "Main screen in the website")
 
 ### 2. Second Step - Fill with information about nanomaterial.
+![Alt text for the image](images/image_3.png "Fill the blank with the following rules")
+
+at this point, there are the following image and below rules.
+- Core is needed.
+- Multiple coating and doping components can be added for nanomaterials with complex structures.
+- If users input doping component, 'Doping Rage(%)' is mandatory within 1~100.
+- **(Caution!)** **The range of 'Diameter' covers from 1nm to 700nm. If nanomaterial diameter value is out of the range, the cytotoxicity prediction accuracy can be reduced as the model operates outside its trained domain.**
+
+### 3. Final Step - Users get the result.
+![Alt text for the image](images/image_2.png "Prediction Result")
+- Users can download the result.
 
 ## Local Usage
 ### 1. Frist Step - clone the repository
@@ -39,14 +50,15 @@ nanoparticle = {'Core':'CdSe',
                'Coating': '',
                'Diameter(nm)': 500}
 ```
-at this point, there are the following rules. (Please, Check all things!)
+at this point, there are the following rules.
 - Core is needed.
 - Shell is only filled with the list in "shell_volume_list.csv".
 - If users input doping component, 'Doping Rage(%)' is mandatory within 1~100.
-- The range of 'Diameter(nm)' covers from 1nm to 700nm. If nanomaterial diameter value is out of the range, the cytotoxicity prediction accuracy can be reduced as the model operates outside its trained domain.
+- **(Caution!)** **The range of 'Diameter(nm)' covers from 1nm to 700nm. If nanomaterial diameter value is out of the range, the cytotoxicity prediction accuracy can be reduced as the model operates outside its trained domain.**
 
 ### 5. Final Step - Users get "result_from_model.csv" file.
 
 ## References
 [1] Shin et al., Use of Size-Dependent Electron Configuration Fingerprint to Develop General Prediction Models for Nanomaterials. NanoImpact 2021, 21, 100298.
+
 [2] 
