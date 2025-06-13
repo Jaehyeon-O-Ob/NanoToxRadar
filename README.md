@@ -37,6 +37,7 @@ conda create -n nanotoxradar python=3.10
 ```
 ### 3. Third Step - Install dependencies
 ```bash
+conda activate nanotoxradar # activate the environment
 pip install -r requirements.txt
 ```
 ### 4. Fourth Step - open 'prediction.py'
