@@ -40,7 +40,7 @@ conda create -n nanotoxradar python=3.10
 conda activate nanotoxradar # activate the environment
 pip install -r requirements.txt
 ```
-### 4. Fourth Step - open 'prediction.py'
+### 4. Fourth Step - open 'prediction.py' and fill with user's nanomaterial
 fill in the '# nano particle ready'
 ```python
 # nano particle ready
