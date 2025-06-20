@@ -85,4 +85,4 @@ python prediction.py
 ## References
 [1] Shin et al., Use of Size-Dependent Electron Configuration Fingerprint to Develop General Prediction Models for Nanomaterials. NanoImpact 2021, 21, 100298.
 
-[2]
+[2] We will add it as soon as possible
